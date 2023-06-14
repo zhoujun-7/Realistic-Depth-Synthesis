@@ -6,5 +6,6 @@ The NYU-style images is available [HERE](www.baidu.com)
 
 
 # TODO list
+- [ ] NYU-Style images
 - [ ] ICVL-Style images
 - [ ] Hands2019-Style images
