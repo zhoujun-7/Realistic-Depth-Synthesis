@@ -58,3 +58,10 @@ python generate_nyu.py
 
 We thanks [HANDS19-Challenge-Toolbox](https://github.com/anilarmagan/HANDS19-Challenge-Toolbox) for providing a simple way to synthesis noise-free images.
 
+We thank the following repos providing helpful components/functions in our work.
+
+[StyleGAN2](https://github.com/NVlabs/stylegan2)
+[A2J](https://github.com/zhangboshen/A2J)
+[DCL](https://github.com/Jhonve/DCL-DepthSynthesis)
+[Noise Simulator](https://github.com/ShudaLi/rgbd_simulation)
+
