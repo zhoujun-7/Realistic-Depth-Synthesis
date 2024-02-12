@@ -56,7 +56,7 @@ python generate_nyu.py
 
 ## Acknowledgement
 
-We thanks [HANDS19-Challenge-Toolbox](https://github.com/anilarmagan/HANDS19-Challenge-Toolbox) for providing a simple way to synthesis noise-free images.
+We thanks [HANDS19-Challenge-Toolbox](https://github.com/anilarmagan/HANDS19-Challenge-Toolbox) for providing a simple way to synthesize noise-free images.
 
 We thank the following repos providing helpful components/functions in our work.
 
