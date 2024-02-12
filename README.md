@@ -22,7 +22,7 @@ conda env create -f env_Sty2.yaml
 
 
 
-## Download
+## Downloads
 
 Download the checkpoint for nyu style image at [here](
 https://1drv.ms/f/c/1ed9576d2145b823/EoVwSqY6ji1JvjEi1mUvR5gBhkRr51PBPBM0WbdtuxmXow?e=RifYwH).
@@ -48,7 +48,7 @@ Finally, the directories look like
 └── Torch_utils
 ```
 
-## Generation Realistic Depth Images
+## Realistic Depth Images Generation
 ```
 python generate_nyu.py
 ```
